@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\03My Third Project\bin\Debug\03My Third Project.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\03My Third Project\bin\Debug\03My Third Project.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\03My Third Project\bin\Debug\03My Third Project.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\03My Third Project\obj\Debug\03My Third Project.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\03My Third Project\obj\Debug\03My Third Project.pdb

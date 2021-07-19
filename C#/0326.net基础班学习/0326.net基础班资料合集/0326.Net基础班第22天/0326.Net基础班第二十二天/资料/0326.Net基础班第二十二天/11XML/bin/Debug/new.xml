@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name>&lt;p&gt;金瓶梅&lt;/p&gt;</Name>
+    <Price>
+      <p>100</p>
+    </Price>
+    <Des>好看，顶，狂顶！！！！</Des>
+  </Book>
+</Books>

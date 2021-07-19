@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\bin\Debug\08简繁转换.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\bin\Debug\08简繁转换.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\bin\Debug\08简繁转换.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\obj\Debug\08简繁转换.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\obj\Debug\08简繁转换.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\08简繁转换\obj\Debug\08简繁转换.pdb

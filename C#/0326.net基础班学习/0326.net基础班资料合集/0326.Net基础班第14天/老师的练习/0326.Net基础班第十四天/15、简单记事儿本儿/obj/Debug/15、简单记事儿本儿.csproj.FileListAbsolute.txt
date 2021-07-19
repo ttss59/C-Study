@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\bin\Debug\15、简单记事儿本儿.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\bin\Debug\15、简单记事儿本儿.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\bin\Debug\15、简单记事儿本儿.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\obj\Debug\_15_简单记事儿本儿.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\obj\Debug\_15_简单记事儿本儿.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\obj\Debug\15、简单记事儿本儿.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\obj\Debug\15、简单记事儿本儿.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\15、简单记事儿本儿\obj\Debug\15、简单记事儿本儿.pdb

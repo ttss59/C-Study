@@ -1,0 +1,14 @@
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.exe.config
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.pdb
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.csprojAssemblyReference.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.csproj.CoreCompileInputs.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.pdb
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.exe.config
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.exe
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\bin\Debug\day06.pdb
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.csprojAssemblyReference.cache
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.csproj.CoreCompileInputs.cache
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.exe
+D:\WY下载\C#学习\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\day06\obj\Debug\day06.pdb

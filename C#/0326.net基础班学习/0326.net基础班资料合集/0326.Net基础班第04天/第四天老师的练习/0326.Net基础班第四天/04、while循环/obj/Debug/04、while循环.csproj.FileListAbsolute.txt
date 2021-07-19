@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\bin\Debug\04、while循环.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\bin\Debug\04、while循环.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\bin\Debug\04、while循环.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\obj\Debug\04、while循环.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\obj\Debug\04、while循环.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\04、while循环\obj\Debug\04、while循环.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第04天\第四天老师的练习\0326.Net基础班第四天\04、while循环\bin\Debug\04、while循环.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第04天\第四天老师的练习\0326.Net基础班第四天\04、while循环\obj\Debug\04、while循环.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第04天\第四天老师的练习\0326.Net基础班第四天\04、while循环\obj\Debug\04、while循环.pdb

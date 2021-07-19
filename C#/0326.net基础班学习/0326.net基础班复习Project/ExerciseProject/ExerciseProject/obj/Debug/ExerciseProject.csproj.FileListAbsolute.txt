@@ -1,0 +1,9 @@
+D:\Resourse\wy\Video\传智C#\0326.net基础班复习文件夹\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.csprojAssemblyReference.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班复习文件夹\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.csproj.CoreCompileInputs.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\bin\Debug\ExerciseProject.exe.config
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\bin\Debug\ExerciseProject.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\bin\Debug\ExerciseProject.pdb
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.csprojAssemblyReference.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.csproj.CoreCompileInputs.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\随堂项目\0326.net基础班复习Project\ExerciseProject\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.pdb

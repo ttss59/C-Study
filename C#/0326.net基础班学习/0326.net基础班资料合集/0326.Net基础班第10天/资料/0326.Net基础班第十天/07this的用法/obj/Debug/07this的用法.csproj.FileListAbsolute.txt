@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\07this的用法\bin\Debug\07this的用法.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\07this的用法\bin\Debug\07this的用法.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\07this的用法\bin\Debug\07this的用法.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\07this的用法\obj\Debug\07this的用法.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\07this的用法\obj\Debug\07this的用法.pdb

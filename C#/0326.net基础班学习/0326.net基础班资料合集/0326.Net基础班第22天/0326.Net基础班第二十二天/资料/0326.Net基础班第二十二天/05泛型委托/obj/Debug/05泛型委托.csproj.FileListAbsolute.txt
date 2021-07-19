@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\bin\Debug\05泛型委托.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\bin\Debug\05泛型委托.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\bin\Debug\05泛型委托.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\obj\Debug\05泛型委托.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\obj\Debug\05泛型委托.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\05泛型委托\obj\Debug\05泛型委托.pdb

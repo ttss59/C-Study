@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.pdb
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.exe.config
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.exe
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.pdb
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.exe
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\bin\Debug\03字符串的练习.pdb
+G:\老师的视频资料\0326.Net基础班第10天\0326.Net基础班第十天\0326.Net基础班第十天\资料\0326.Net基础班第十天\03字符串的练习\obj\Debug\03字符串的练习.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\bin\Debug\06lamda表达式.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\bin\Debug\06lamda表达式.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\bin\Debug\06lamda表达式.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\obj\Debug\06lamda表达式.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\obj\Debug\06lamda表达式.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\06lamda表达式\obj\Debug\06lamda表达式.pdb

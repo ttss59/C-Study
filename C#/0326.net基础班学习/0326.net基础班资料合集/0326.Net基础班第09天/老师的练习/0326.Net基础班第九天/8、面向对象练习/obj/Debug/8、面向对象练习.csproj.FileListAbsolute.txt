@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\bin\Debug\8、面向对象练习.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\bin\Debug\8、面向对象练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\bin\Debug\8、面向对象练习.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\obj\Debug\8、面向对象练习.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\obj\Debug\8、面向对象练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\8、面向对象练习\obj\Debug\8、面向对象练习.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\8、面向对象练习\bin\Debug\8、面向对象练习.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\8、面向对象练习\obj\Debug\8、面向对象练习.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\8、面向对象练习\obj\Debug\8、面向对象练习.pdb

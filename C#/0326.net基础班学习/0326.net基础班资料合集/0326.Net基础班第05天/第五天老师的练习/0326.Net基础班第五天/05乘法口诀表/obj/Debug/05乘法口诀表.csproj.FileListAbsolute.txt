@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\05乘法口诀表\bin\Debug\05乘法口诀表.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\05乘法口诀表\bin\Debug\05乘法口诀表.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\05乘法口诀表\bin\Debug\05乘法口诀表.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\05乘法口诀表\obj\Debug\05乘法口诀表.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\05乘法口诀表\obj\Debug\05乘法口诀表.pdb

@@ -1,0 +1,19 @@
+ Hashtable ht = new Hashtable();
+            for (int i = 0; i < Jian.Length; i++)
+            {
+                ht.Add(Jian[i], Fan[i]);
+            }
+            Console.WriteLine("ÇëËæ±ãÊäÈë");
+            string input = Console.ReadLine();
+            for (int i = 0; i < input.Length; i++)
+            {
+                if (ht.ContainsKey(input[i]))
+                {
+                    Console.Write(ht[input[i]]);
+                }
+                else
+                {
+                    Console.Write(input[i]);
+                }
+            }
+            Console.ReadKey();

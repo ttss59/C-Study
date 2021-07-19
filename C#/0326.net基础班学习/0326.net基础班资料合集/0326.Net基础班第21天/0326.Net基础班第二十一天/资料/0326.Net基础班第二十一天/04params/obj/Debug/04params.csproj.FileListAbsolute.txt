@@ -1,0 +1,5 @@
+c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\04params\bin\Debug\04params.exe.config
+c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\04params\bin\Debug\04params.exe
+c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\04params\bin\Debug\04params.pdb
+c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\04params\obj\Debug\04params.exe
+c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\04params\obj\Debug\04params.pdb

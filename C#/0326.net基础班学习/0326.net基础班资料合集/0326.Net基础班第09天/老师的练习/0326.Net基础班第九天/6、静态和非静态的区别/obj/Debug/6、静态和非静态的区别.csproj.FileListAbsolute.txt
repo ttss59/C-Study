@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\bin\Debug\6、静态和非静态的区别.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\bin\Debug\6、静态和非静态的区别.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\bin\Debug\6、静态和非静态的区别.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\obj\Debug\6、静态和非静态的区别.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\obj\Debug\6、静态和非静态的区别.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第九天\6、静态和非静态的区别\obj\Debug\6、静态和非静态的区别.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\6、静态和非静态的区别\bin\Debug\6、静态和非静态的区别.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\6、静态和非静态的区别\obj\Debug\6、静态和非静态的区别.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\6、静态和非静态的区别\obj\Debug\6、静态和非静态的区别.pdb

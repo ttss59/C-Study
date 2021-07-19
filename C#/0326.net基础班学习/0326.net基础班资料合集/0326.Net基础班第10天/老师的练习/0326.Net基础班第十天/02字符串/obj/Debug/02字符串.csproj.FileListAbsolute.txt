@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\02字符串\bin\Debug\02字符串.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\02字符串\bin\Debug\02字符串.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\02字符串\bin\Debug\02字符串.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\02字符串\obj\Debug\02字符串.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\02字符串\obj\Debug\02字符串.pdb

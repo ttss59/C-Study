@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\bin\Debug\01ProcessToOpenFile.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\bin\Debug\01ProcessToOpenFile.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\bin\Debug\01ProcessToOpenFile.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\obj\Debug\01ProcessToOpenFile.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\obj\Debug\01ProcessToOpenFile.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\01ProcessToOpenFile\obj\Debug\01ProcessToOpenFile.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\01ProcessToOpenFile\bin\Debug\01ProcessToOpenFile.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\01ProcessToOpenFile\obj\Debug\01ProcessToOpenFile.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\01ProcessToOpenFile\obj\Debug\01ProcessToOpenFile.pdb

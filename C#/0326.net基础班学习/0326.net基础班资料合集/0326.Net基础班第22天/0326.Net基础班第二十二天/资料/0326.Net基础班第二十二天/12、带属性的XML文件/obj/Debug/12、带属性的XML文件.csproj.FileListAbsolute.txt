@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\12、带属性的XML文件\bin\Debug\12、带属性的XML文件.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\12、带属性的XML文件\bin\Debug\12、带属性的XML文件.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\12、带属性的XML文件\bin\Debug\12、带属性的XML文件.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\12、带属性的XML文件\obj\Debug\12、带属性的XML文件.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\12、带属性的XML文件\obj\Debug\12、带属性的XML文件.pdb

@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\bin\Debug\10操作文件夹.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\10操作文件夹\obj\Debug\10操作文件夹.csprojResolveAssemblyReference.cache

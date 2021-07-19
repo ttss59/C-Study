@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\07break\bin\Debug\07break.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\07break\bin\Debug\07break.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\07break\bin\Debug\07break.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\07break\obj\Debug\07break.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\07break\obj\Debug\07break.pdb

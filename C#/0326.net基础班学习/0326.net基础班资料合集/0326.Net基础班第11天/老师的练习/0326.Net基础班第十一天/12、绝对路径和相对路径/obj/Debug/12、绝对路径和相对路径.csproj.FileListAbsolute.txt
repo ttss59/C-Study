@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\12、绝对路径和相对路径\bin\Debug\12、绝对路径和相对路径.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\12、绝对路径和相对路径\bin\Debug\12、绝对路径和相对路径.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\12、绝对路径和相对路径\bin\Debug\12、绝对路径和相对路径.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\12、绝对路径和相对路径\obj\Debug\12、绝对路径和相对路径.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\12、绝对路径和相对路径\obj\Debug\12、绝对路径和相对路径.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\12、绝对路径和相对路径\bin\Debug\12、绝对路径和相对路径.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\12、绝对路径和相对路径\obj\Debug\12、绝对路径和相对路径.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\12、绝对路径和相对路径\obj\Debug\12、绝对路径和相对路径.pdb

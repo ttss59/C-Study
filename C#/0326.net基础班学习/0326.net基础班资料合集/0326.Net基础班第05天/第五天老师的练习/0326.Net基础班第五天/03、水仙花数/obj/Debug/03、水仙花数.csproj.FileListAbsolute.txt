@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\03、水仙花数\bin\Debug\03、水仙花数.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\03、水仙花数\bin\Debug\03、水仙花数.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\03、水仙花数\bin\Debug\03、水仙花数.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\03、水仙花数\obj\Debug\03、水仙花数.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第五天\03、水仙花数\obj\Debug\03、水仙花数.pdb

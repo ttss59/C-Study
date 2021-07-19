@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\bin\Debug\08静态和非静态.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\obj\Debug\08静态和非静态.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\bin\Debug\08静态和非静态.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\bin\Debug\08静态和非静态.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\obj\Debug\08静态和非静态.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\08静态和非静态\obj\Debug\08静态和非静态.pdb

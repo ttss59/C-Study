@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\bin\Debug\04StreamWriter和StreamReader.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\bin\Debug\04StreamWriter和StreamReader.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\bin\Debug\04StreamWriter和StreamReader.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.csprojResolveAssemblyReference.cache
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\0326.Net基础班第十二天\资料\0326.Net基础班第十二天\04StreamWriter和StreamReader\bin\Debug\04StreamWriter和StreamReader.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\0326.Net基础班第十二天\资料\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\0326.Net基础班第十二天\资料\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\04StreamWriter和StreamReader\bin\Debug\04StreamWriter和StreamReader.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\04StreamWriter和StreamReader\obj\Debug\04StreamWriter和StreamReader.pdb

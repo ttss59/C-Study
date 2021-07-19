@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\bin\Debug\05继承练习.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\bin\Debug\05继承练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\bin\Debug\05继承练习.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\obj\Debug\05继承练习.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\obj\Debug\05继承练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\05继承练习\obj\Debug\05继承练习.pdb

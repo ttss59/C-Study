@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\02、switch-case\bin\Debug\02、switch-case.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\02、switch-case\bin\Debug\02、switch-case.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\02、switch-case\bin\Debug\02、switch-case.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\02、switch-case\obj\Debug\02、switch-case.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第四天\02、switch-case\obj\Debug\02、switch-case.pdb

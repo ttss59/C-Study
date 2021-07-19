@@ -1,0 +1,11 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\bin\Debug\MDI窗体的设计.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\bin\Debug\MDI窗体的设计.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\bin\Debug\MDI窗体的设计.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\MDI窗体的设计\bin\Debug\MDI窗体的设计.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\MDI窗体的设计\obj\Debug\MDI窗体的设计.pdb

@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\bin\Debug\05递归.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\bin\Debug\05递归.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\bin\Debug\05递归.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\obj\Debug\05递归.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\obj\Debug\05递归.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第七天\05递归\obj\Debug\05递归.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\05递归\bin\Debug\05递归.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\05递归\obj\Debug\05递归.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\05递归\obj\Debug\05递归.pdb

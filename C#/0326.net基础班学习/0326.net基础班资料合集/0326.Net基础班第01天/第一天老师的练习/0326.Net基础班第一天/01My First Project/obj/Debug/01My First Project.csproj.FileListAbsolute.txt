@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\bin\Debug\01My First Project.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\obj\Debug\01My First Project.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\bin\Debug\01My First Project.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\bin\Debug\01My First Project.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\obj\Debug\01My First Project.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第一天\01My First Project\obj\Debug\01My First Project.pdb

@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\bin\Debug\04、冒泡排序.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\bin\Debug\04、冒泡排序.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\bin\Debug\04、冒泡排序.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\obj\Debug\04、冒泡排序.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\obj\Debug\04、冒泡排序.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\04、冒泡排序\obj\Debug\04、冒泡排序.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\04、冒泡排序\bin\Debug\04、冒泡排序.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\04、冒泡排序\obj\Debug\04、冒泡排序.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\04、冒泡排序\obj\Debug\04、冒泡排序.pdb

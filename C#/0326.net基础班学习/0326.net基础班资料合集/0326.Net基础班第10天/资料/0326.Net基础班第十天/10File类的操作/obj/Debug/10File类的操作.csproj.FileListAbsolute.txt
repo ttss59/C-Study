@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\bin\Debug\10File类的操作.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\bin\Debug\10File类的操作.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\bin\Debug\10File类的操作.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\obj\Debug\10File类的操作.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\obj\Debug\10File类的操作.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十天\10File类的操作\obj\Debug\10File类的操作.pdb

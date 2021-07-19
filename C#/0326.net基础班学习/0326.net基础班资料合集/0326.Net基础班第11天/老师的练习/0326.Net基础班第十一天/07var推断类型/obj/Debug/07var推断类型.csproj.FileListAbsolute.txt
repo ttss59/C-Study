@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\bin\Debug\07var推断类型.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\bin\Debug\07var推断类型.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\bin\Debug\07var推断类型.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\obj\Debug\07var推断类型.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\obj\Debug\07var推断类型.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\07var推断类型\obj\Debug\07var推断类型.csprojResolveAssemblyReference.cache

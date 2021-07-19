@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\TEst\bin\Debug\TEst.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\TEst\bin\Debug\TEst.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\TEst\bin\Debug\TEst.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\TEst\obj\Debug\TEst.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\TEst\obj\Debug\TEst.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\TEst\bin\Debug\TEst.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\TEst\obj\Debug\TEst.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\TEst\obj\Debug\TEst.pdb

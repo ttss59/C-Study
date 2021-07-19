@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\bin\Debug\13try-catch异常捕获.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\bin\Debug\13try-catch异常捕获.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\bin\Debug\13try-catch异常捕获.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\obj\Debug\13try-catch异常捕获.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\obj\Debug\13try-catch异常捕获.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\13try-catch异常捕获\obj\Debug\13try-catch异常捕获.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\13try-catch异常捕获\bin\Debug\13try-catch异常捕获.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\13try-catch异常捕获\obj\Debug\13try-catch异常捕获.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\13try-catch异常捕获\obj\Debug\13try-catch异常捕获.pdb

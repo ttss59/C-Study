@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\bin\Debug\04-OOP继承.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\bin\Debug\04-OOP继承.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\bin\Debug\04-OOP继承.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\obj\Debug\04-OOP继承.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\obj\Debug\04-OOP继承.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\04-OOP继承\obj\Debug\04-OOP继承.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <CustomerName>杨浩然</CustomerName>
+  <OrderNumber>BJ333338</OrderNumber>
+  <Items>
+    <OrderItem Name="充气娃娃" Count="5" />
+    <OrderItem Name="超人般内裤" Count="100" />
+  </Items>
+</Order>

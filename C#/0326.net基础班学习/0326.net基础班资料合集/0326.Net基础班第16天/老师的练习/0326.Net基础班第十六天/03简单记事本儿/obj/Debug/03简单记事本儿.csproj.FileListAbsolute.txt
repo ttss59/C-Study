@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\bin\Debug\03简单记事本儿.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\bin\Debug\03简单记事本儿.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\bin\Debug\03简单记事本儿.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\_03简单记事本儿.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\_03简单记事本儿.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.csprojResolveAssemblyReference.cache
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\03简单记事本儿\bin\Debug\03简单记事本儿.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第16天\老师的练习\0326.Net基础班第十六天\03简单记事本儿\obj\Debug\03简单记事本儿.pdb

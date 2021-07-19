@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\05集合的长度\bin\Debug\05集合的长度.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\05集合的长度\bin\Debug\05集合的长度.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\05集合的长度\bin\Debug\05集合的长度.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\05集合的长度\obj\Debug\05集合的长度.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\05集合的长度\obj\Debug\05集合的长度.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <CustomerName>еХШ§</CustomerName>
+  <OrderNumber>BJ1009890</OrderNumber>
+  <Items>
+    <OrderItem Name="ТыБэ" Count="2" />
+    <OrderItem Name="гъвТ" Count="40" />
+  </Items>
+</Order>

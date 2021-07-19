@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\bin\Debug\10、方法的4个练习题.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\bin\Debug\10、方法的4个练习题.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\bin\Debug\10、方法的4个练习题.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\obj\Debug\10、方法的4个练习题.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\obj\Debug\10、方法的4个练习题.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第六天\10、方法的4个练习题\obj\Debug\10、方法的4个练习题.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\10、方法的4个练习题\bin\Debug\10、方法的4个练习题.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\10、方法的4个练习题\obj\Debug\10、方法的4个练习题.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\10、方法的4个练习题\obj\Debug\10、方法的4个练习题.pdb

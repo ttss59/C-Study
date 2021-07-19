@@ -1,0 +1,11 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\bin\Debug\浏览器控件.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\bin\Debug\浏览器控件.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\bin\Debug\浏览器控件.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\浏览器控件\bin\Debug\浏览器控件.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\浏览器控件\obj\Debug\浏览器控件.pdb

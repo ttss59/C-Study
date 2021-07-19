@@ -1,0 +1,204 @@
+﻿div.divIndex {
+    width: 800px;
+    background-color: yellow;
+    height: 1450px;
+    margin: 0px auto;
+}
+
+* {
+    margin: 0px;
+    font-size: 12px;
+}
+
+div.divLogo {
+    width: 800px;
+    /*background-color:gray;*/
+    height: 145px;
+}
+
+.myLogo {
+    padding-top: 40px;
+    float: left;
+}
+
+div.divTable1 {
+    float: right;
+    padding-top: 40px;
+}
+
+    div.divTable1 table td {
+        border-right: 1px solid #cccccc;
+    }
+
+div.divNav {
+    height: 35px;
+    width: 800px;
+    background-color: #246ab9;
+}
+
+    div.divNav a {
+        text-decoration: none;
+        color: white;
+        font-size: 24px;
+        padding-right: 30px;
+    }
+
+    div.divNav ul {
+        list-style-type:none;
+    }
+
+        div.divNav ul li {
+            float: left;
+        }
+
+
+div.divSearch {
+    height:45px;
+    width:800px;
+    background-color:red;
+}
+    div.divSearch input {
+        padding-top:5px;
+    }
+
+div.divNewYear {
+    height:100px;
+    width:800px;
+    margin-top:10px;
+    background-color:black;
+}
+
+div.divContent {
+    height:600px;
+    width:800px;
+    background-color:green;
+    margin-top:5px;
+}
+div.divContent1 {
+    height:30px;
+    width:800px;
+    background-color:pink;
+}
+div.divContent2 {
+    height:570px;
+    width:250px;
+    background-color:purple;
+    float:left;
+}
+div.divContent3 {
+      height:570px;
+    width:250px;
+    background-color:black;
+    float:left;
+}
+div.divContent4 {
+      height:160px;
+    width:300px;
+    background-color:yellow;
+    float:left;
+}
+div.divContent5 {
+      height:35px;
+    width:300px;
+    background-color:azure;
+    float:left;
+}
+div.divContent6 {
+      height:285px;
+    width:300px;
+    background-color:darkseagreen;
+    float:left;
+}
+div.divContent7 {
+      height:30px;
+    width:300px;
+    background-color:darkgoldenrod;
+    float:left;
+}
+div.divContent8 {
+      height:60px;
+    width:300px;
+    background-color:darkgrey;
+    float:left;
+}
+div.divPic1 {
+    height:90px;
+    width:800px;
+    background-color:red;
+    margin-top:5px;
+}
+
+div.divPic2 {
+    height:30px;
+    width:800px;
+    background-color:blue;
+    margin-top:5px;
+}
+div.divPic3 {
+    height:150px;
+    width:800px;
+    background-color:green;
+    margin-top:5px;
+}
+
+div.divPic4 {
+    height:30px;
+    width:800px;
+    background-color:deeppink;
+    margin-top:5px;
+}
+div.divPic5 {
+    height:100px;
+    width:800px;
+    background-color:darkkhaki;
+    margin-top:5px;
+}
+div.divPic6 {
+    height:80px;
+    width:800px;
+    background-color:darkslateblue;
+    margin-top:5px;
+}
+div.divPic5 a {
+    font-size:15px;
+}
+div.divPic5 table {
+    padding-top:5px;
+    padding-left:5px;
+}
+div.divPic5 table td {
+    padding-right:35px;
+}
+
+
+div.divPic4 p {
+    font-size:15px;
+    font-weight:bolder;
+    padding-top:8px;
+   
+}
+div.divPic4 {
+    background-color:#cccccc;
+}
+
+div.divPic3 img
+{
+    padding-right:10px;
+}
+div.divPic3 table {
+    padding-top:20px;
+}
+
+div.divPic6 table {
+    margin:0px auto;
+    padding-top:15px;
+}
+div.divPic6 img {
+   padding-left:320px;
+}
+
+div.divPic2 p {
+    font-weight:bolder;
+    font-size:15px;
+    padding-top:10px;
+}

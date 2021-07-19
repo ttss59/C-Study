@@ -1,0 +1,9 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\bin\Debug\练习题1-5.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\bin\Debug\练习题1-5.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\bin\Debug\练习题1-5.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\obj\Debug\练习题1-5.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\obj\Debug\练习题1-5.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十七天\练习题1-5\obj\Debug\练习题1-5.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第17天\老师的练习\0326.Net基础班第十七天\练习题1-5\bin\Debug\练习题1-5.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第17天\老师的练习\0326.Net基础班第十七天\练习题1-5\obj\Debug\练习题1-5.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第17天\老师的练习\0326.Net基础班第十七天\练习题1-5\obj\Debug\练习题1-5.pdb

@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\bin\Debug\04多选和单选.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\bin\Debug\04多选和单选.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\bin\Debug\04多选和单选.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\_04多选和单选.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\_04多选和单选.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\04多选和单选\bin\Debug\04多选和单选.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第15天\老师的练习\0326.Net基础班第十五天\04多选和单选\obj\Debug\04多选和单选.pdb

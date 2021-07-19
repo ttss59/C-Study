@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\12、抽象类\bin\Debug\12、抽象类.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\12、抽象类\bin\Debug\12、抽象类.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\12、抽象类\bin\Debug\12、抽象类.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\12、抽象类\obj\Debug\12、抽象类.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\12、抽象类\obj\Debug\12、抽象类.pdb

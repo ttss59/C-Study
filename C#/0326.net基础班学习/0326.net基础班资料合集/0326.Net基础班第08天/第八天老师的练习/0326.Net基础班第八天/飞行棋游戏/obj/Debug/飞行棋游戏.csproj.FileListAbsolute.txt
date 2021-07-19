@@ -1,0 +1,16 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.pdb
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\bin\Debug\飞行棋游戏.pdb
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.csprojAssemblyReference.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.csproj.CoreCompileInputs.cache
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+D:\Resourse\wy\Video\传智C#\0326.net基础班学习\0326.net基础班资料合集\0326.Net基础班第08天\第八天老师的练习\0326.Net基础班第八天\飞行棋游戏\obj\Debug\飞行棋游戏.pdb

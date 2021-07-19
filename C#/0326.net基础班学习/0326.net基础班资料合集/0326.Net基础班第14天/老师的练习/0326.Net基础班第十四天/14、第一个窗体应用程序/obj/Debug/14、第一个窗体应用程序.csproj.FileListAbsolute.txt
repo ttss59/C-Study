@@ -1,0 +1,12 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\bin\Debug\14、第一个窗体应用程序.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\bin\Debug\14、第一个窗体应用程序.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\bin\Debug\14、第一个窗体应用程序.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\_14_第一个窗体应用程序.Form1.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\_14_第一个窗体应用程序.Properties.Resources.resources
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.csproj.GenerateResource.Cache
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\14、第一个窗体应用程序\bin\Debug\14、第一个窗体应用程序.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\14、第一个窗体应用程序\obj\Debug\14、第一个窗体应用程序.pdb

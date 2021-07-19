@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\15Switch-case前奏\bin\Debug\15Switch-case前奏.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\15Switch-case前奏\bin\Debug\15Switch-case前奏.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\15Switch-case前奏\bin\Debug\15Switch-case前奏.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\15Switch-case前奏\obj\Debug\15Switch-case前奏.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第三天\15Switch-case前奏\obj\Debug\15Switch-case前奏.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\15Switch-case前奏\bin\Debug\15Switch-case前奏.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\15Switch-case前奏\obj\Debug\15Switch-case前奏.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\15Switch-case前奏\obj\Debug\15Switch-case前奏.pdb

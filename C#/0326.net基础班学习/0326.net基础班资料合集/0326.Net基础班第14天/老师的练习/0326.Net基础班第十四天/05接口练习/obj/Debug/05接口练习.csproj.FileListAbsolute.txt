@@ -1,0 +1,8 @@
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\05接口练习\bin\Debug\05接口练习.exe.config
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\05接口练习\bin\Debug\05接口练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\05接口练习\bin\Debug\05接口练习.pdb
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\05接口练习\obj\Debug\05接口练习.exe
+C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\05接口练习\obj\Debug\05接口练习.pdb
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\05接口练习\bin\Debug\05接口练习.exe.config
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\05接口练习\obj\Debug\05接口练习.exe
+F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\05接口练习\obj\Debug\05接口练习.pdb
