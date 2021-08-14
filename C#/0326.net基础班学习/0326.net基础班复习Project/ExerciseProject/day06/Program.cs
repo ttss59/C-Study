@@ -40,7 +40,7 @@ namespace day06
         private static int[] Test01(int[] nums)
         {
             //定义一个规则，返回数组的第一个元素为最大值，第二个元素为最小值，第三个元素为总和，第四个元素为平均值
-            int result = new int[4];
+            int[] result = new int[4];
             result[0] = nums[0];
             result[1] = nums[0];
             result[2] = 0;
@@ -60,7 +60,7 @@ namespace day06
             }
 
             result[3] = result[2] / nums.Length;
-            //return result;
+            return result;
         }
 
         /// <summary>
@@ -168,14 +168,30 @@ namespace day06
             {
                 Console.WriteLine("请输入一个数字：");
                 num = int.Parse(Console.ReadLine());
-                //return num;
+                return num;
             }
             catch
             {
                 Console.WriteLine("输入不合法 ！");
-                //return 0;
+                return 0;
             }
         }
+
+        #region 方法的重载不看返回值的类型。参赛类型完全一样，仅返回值类型不同，是会报错的，因为这种不是重载；
+
+        public static int IsLogin(int index)
+        {
+            return 0;
+        }
+
+        //public static bool IsLogin(int index)
+        //{
+        //    return false;
+        //}
+
+        #endregion 方法的重载不看返回值的类型。参赛类型完全一样，仅返回值类型不同，是会报错的，因为这种不是重载；
+
+        #region out参数的使用
 
         /*
          * //写一个方法判断用户是否登陆成功
@@ -211,19 +227,6 @@ namespace day06
                 return false;
             }
         }
-
-        /*
-         * 方法的重载不看返回值的类型。参赛类型完全一样，仅返回值类型不同，是会报错的，因为这种不是重载；
-         */
-        public static int IsLogin(int index)
-        {
-            return 0;
-        }
-
-        //public static bool IsLogin(int index)
-        //{
-        //    return false;
-        //}
 
         private static void TestOut()
         {
@@ -265,6 +268,8 @@ namespace day06
             num++;//num没有被out修饰，所以num是形参，方法中可以不赋值！
             return num;
         }
+
+        #endregion out参数的使用
 
         private static void Main(string[] args)
         {

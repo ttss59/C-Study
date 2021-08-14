@@ -18,7 +18,7 @@ namespace day08
 
         private static bool isGameEnd = false;
         private static int playGameCount = -1;
-        private static bool gamePause=false;
+        private static bool gamePause = false;
         private static int pasueIndex = -1;
 
         private static void Main(string[] args)
@@ -28,14 +28,13 @@ namespace day08
             InitMapInfo();
             while (!isGameEnd)
             {
-               
                 playGameCount++;
                 int currentIndex = playGameCount % 2;
-                
-                if (gamePause==true&& pasueIndex != -1 && currentIndex == pasueIndex)
+
+                if (gamePause == true && pasueIndex != -1 && currentIndex == pasueIndex)
                 {
                     Console.WriteLine();
-                    Console.WriteLine("{0}玩家此轮游戏暂定，继续由玩家{1}游戏",playerName[currentIndex], playerName[1 - currentIndex]);
+                    Console.WriteLine("{0}玩家此轮游戏暂定，继续由玩家{1}游戏", playerName[currentIndex], playerName[1 - currentIndex]);
                     currentIndex = 1 - currentIndex;
                     gamePause = false;
                     pasueIndex = -1;
@@ -44,7 +43,7 @@ namespace day08
                 }
                 PlayGame(currentIndex);
             }
-         
+
             Console.ReadKey();
         }
 
@@ -99,10 +98,10 @@ namespace day08
         private static void PlayGame(int index)
         {
             Console.WriteLine();
-            Console.WriteLine("请玩家 {0} 按输入任意键掷色子:",playerName[index]);
+            Console.WriteLine("请玩家 {0} 按输入任意键掷色子:", playerName[index]);
             Console.ReadKey(true);
             int count = new Random().Next(1, 7);
-            Console.WriteLine("玩家 {0} 掷出的色子点数为:{1}，请输入任意键开始行动。",playerName[index],count);
+            Console.WriteLine("玩家 {0} 掷出的色子点数为:{1}，请输入任意键开始行动。", playerName[index], count);
             Console.ReadKey(true);
             Console.Clear();
             DrawHead();
@@ -117,7 +116,7 @@ namespace day08
             else if (playersIndex[index] == playersIndex[1 - index])
             {
                 playersIndex[1 - index] = playersIndex[1 - index] > 6 ? playersIndex[1 - index] - 6 : 0;
-                Console.WriteLine("哦豁，{0}玩家你踩到玩家{1}了，玩家{2}必须向后退6格,按任意键开始行动。", playerName[index],playerName[1-index], playerName[1-index]);
+                Console.WriteLine("哦豁，{0}玩家你踩到玩家{1}了，玩家{2}必须向后退6格,按任意键开始行动。", playerName[index], playerName[1 - index], playerName[1 - index]);
                 Console.ReadKey(true);
             }
             else
@@ -126,7 +125,7 @@ namespace day08
                 {
                     case 1:
                         //踩到了幸运轮盘 1交换位置  2 轰炸对方 使对方退6格
-                        Console.WriteLine("恭喜，{0} 踩到幸运轮盘，请选择操作:  1=>交换位置  2=>轰炸对方",playerName[index]);
+                        Console.WriteLine("恭喜，{0} 踩到幸运轮盘，请选择操作:  1=>交换位置  2=>轰炸对方", playerName[index]);
                         string op = Console.ReadLine();
                         while (op != "1" && op != "2")
                         {
