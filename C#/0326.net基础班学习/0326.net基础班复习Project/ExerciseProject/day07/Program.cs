@@ -23,9 +23,41 @@ namespace day07
             TellStory();
         }
 
+        private static void TestString()
+        {
+            string s1 = "jjjjj";
+            string s2 = s1;
+            Console.WriteLine("before : s1 = {0} s2 = {1}", s1, s2);
+            s1 = "sssss";
+            Console.WriteLine("after : s1 = {0} s2 = {1}", s1, s2);
+            Console.ReadKey();
+        }
+
+        private static void TestReString()
+        {
+            Console.WriteLine("请输入字符串");
+            string str = Console.ReadLine();
+            char[] ca = str.ToCharArray();
+            Array.Reverse(ca);
+            str = new string(ca);
+            Console.WriteLine("str = " + str);
+        }
+
+        private static void TestReTwoString()
+        {
+            Console.WriteLine("请输入两两反转的字符串:");
+            string str = Console.ReadLine();
+            char[] ca = str.ToCharArray();
+            Array.Reverse(ca);
+            str = new string(ca);
+            Console.WriteLine("str = " + str);
+        }
+
         private static void Main(string[] args)
         {
-            TellStory();
+            //TellStory();
+            //TestString();
+            //TestReString();
             Console.ReadKey();
         }
     }
