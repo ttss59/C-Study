@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\bin\Debug\07超市收银系统.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\bin\Debug\07超市收银系统.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\bin\Debug\07超市收银系统.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\obj\Debug\07超市收银系统.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\obj\Debug\07超市收银系统.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\07超市收银系统\obj\Debug\07超市收银系统.pdb

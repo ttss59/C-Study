@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\bin\Debug\6、while循环的3个练习题.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\bin\Debug\6、while循环的3个练习题.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\bin\Debug\6、while循环的3个练习题.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\obj\Debug\6、while循环的3个练习题.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\obj\Debug\6、while循环的3个练习题.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\6、while循环的3个练习题\obj\Debug\6、while循环的3个练习题.pdb

@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\bin\Debug\03使用FileStream读写大文件.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\bin\Debug\03使用FileStream读写大文件.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\bin\Debug\03使用FileStream读写大文件.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\obj\Debug\03使用FileStream读写大文件.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\obj\Debug\03使用FileStream读写大文件.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十二天\03使用FileStream读写大文件\obj\Debug\03使用FileStream读写大文件.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\03使用FileStream读写大文件\bin\Debug\03使用FileStream读写大文件.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\03使用FileStream读写大文件\obj\Debug\03使用FileStream读写大文件.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第12天\第12天老师的练习\0326.Net基础班第十二天\03使用FileStream读写大文件\obj\Debug\03使用FileStream读写大文件.pdb

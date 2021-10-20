@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\bin\Debug\06Hashtable.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\bin\Debug\06Hashtable.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\bin\Debug\06Hashtable.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\obj\Debug\06Hashtable.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\obj\Debug\06Hashtable.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\06Hashtable\obj\Debug\06Hashtable.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\06Hashtable\bin\Debug\06Hashtable.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\06Hashtable\obj\Debug\06Hashtable.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\06Hashtable\obj\Debug\06Hashtable.pdb

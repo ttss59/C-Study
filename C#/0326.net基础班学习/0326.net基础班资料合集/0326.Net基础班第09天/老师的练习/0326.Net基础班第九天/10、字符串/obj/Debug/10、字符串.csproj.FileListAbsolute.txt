@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\10、字符串\bin\Debug\10、字符串.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\10、字符串\bin\Debug\10、字符串.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\10、字符串\bin\Debug\10、字符串.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\10、字符串\obj\Debug\10、字符串.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\10、字符串\obj\Debug\10、字符串.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\10、字符串\bin\Debug\10、字符串.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\10、字符串\obj\Debug\10、字符串.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\10、字符串\obj\Debug\10、字符串.pdb

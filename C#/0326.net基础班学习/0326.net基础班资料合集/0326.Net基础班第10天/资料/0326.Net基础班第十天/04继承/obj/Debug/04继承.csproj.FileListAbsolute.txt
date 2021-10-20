@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\bin\Debug\04继承.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\bin\Debug\04继承.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\bin\Debug\04继承.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\obj\Debug\04继承.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\obj\Debug\04继承.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\04继承\obj\Debug\04继承.pdb

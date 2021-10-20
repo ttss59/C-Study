@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\02、数组\bin\Debug\02、数组.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\02、数组\bin\Debug\02、数组.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\02、数组\bin\Debug\02、数组.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\02、数组\obj\Debug\02、数组.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\02、数组\obj\Debug\02、数组.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\02、数组\bin\Debug\02、数组.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\02、数组\obj\Debug\02、数组.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\02、数组\obj\Debug\02、数组.pdb

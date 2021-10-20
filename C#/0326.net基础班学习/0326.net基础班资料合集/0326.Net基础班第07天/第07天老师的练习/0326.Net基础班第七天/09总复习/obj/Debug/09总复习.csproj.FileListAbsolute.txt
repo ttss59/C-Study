@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\bin\Debug\09总复习.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\bin\Debug\09总复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\bin\Debug\09总复习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\obj\Debug\09总复习.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\obj\Debug\09总复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第七天\09总复习\obj\Debug\09总复习.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\09总复习\bin\Debug\09总复习.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\09总复习\obj\Debug\09总复习.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第07天\第07天老师的练习\0326.Net基础班第七天\09总复习\obj\Debug\09总复习.pdb

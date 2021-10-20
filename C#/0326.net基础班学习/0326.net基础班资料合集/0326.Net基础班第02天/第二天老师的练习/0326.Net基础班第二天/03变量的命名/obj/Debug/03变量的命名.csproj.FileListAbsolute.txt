@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\bin\Debug\03变量的命名.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\bin\Debug\03变量的命名.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\bin\Debug\03变量的命名.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\obj\Debug\03变量的命名.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\obj\Debug\03变量的命名.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\03变量的命名\obj\Debug\03变量的命名.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\03变量的命名\bin\Debug\03变量的命名.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\03变量的命名\obj\Debug\03变量的命名.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\03变量的命名\obj\Debug\03变量的命名.pdb

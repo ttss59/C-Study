@@ -1,5 +1,0 @@
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\02、值传递和引用传递\bin\Debug\02、值传递和引用传递.exe.config
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\02、值传递和引用传递\bin\Debug\02、值传递和引用传递.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\02、值传递和引用传递\bin\Debug\02、值传递和引用传递.pdb
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\02、值传递和引用传递\obj\Debug\02、值传递和引用传递.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\02、值传递和引用传递\obj\Debug\02、值传递和引用传递.pdb

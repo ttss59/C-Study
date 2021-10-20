@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\bin\Debug\08if.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\bin\Debug\08if.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\bin\Debug\08if.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\obj\Debug\08if.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\obj\Debug\08if.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第三天\08if\obj\Debug\08if.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\08if\bin\Debug\08if.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\08if\obj\Debug\08if.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第03天\第三天老师的练习\0326.Net基础班第三天\08if\obj\Debug\08if.pdb

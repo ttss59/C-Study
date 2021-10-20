@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\bin\Debug\05学生或者老师登陆.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\bin\Debug\05学生或者老师登陆.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\bin\Debug\05学生或者老师登陆.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\05学生或者老师登陆.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\_05学生或者老师登陆.Form1.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\_05学生或者老师登陆.Properties.Resources.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\05学生或者老师登陆.csproj.GenerateResource.Cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\05学生或者老师登陆.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\05学生或者老师登陆\obj\Debug\05学生或者老师登陆.pdb

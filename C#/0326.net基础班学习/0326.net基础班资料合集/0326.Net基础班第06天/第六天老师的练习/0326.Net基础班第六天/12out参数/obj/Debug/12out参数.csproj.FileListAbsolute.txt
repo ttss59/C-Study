@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\bin\Debug\12out参数.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\bin\Debug\12out参数.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\bin\Debug\12out参数.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\obj\Debug\12out参数.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\obj\Debug\12out参数.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\12out参数\obj\Debug\12out参数.csprojResolveAssemblyReference.cache
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\12out参数\bin\Debug\12out参数.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\12out参数\obj\Debug\12out参数.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\12out参数\obj\Debug\12out参数.pdb

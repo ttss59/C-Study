@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\15自动动手写TryParse\bin\Debug\15自动动手写TryParse.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\15自动动手写TryParse\bin\Debug\15自动动手写TryParse.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\15自动动手写TryParse\bin\Debug\15自动动手写TryParse.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\15自动动手写TryParse\obj\Debug\15自动动手写TryParse.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第六天\15自动动手写TryParse\obj\Debug\15自动动手写TryParse.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\15自动动手写TryParse\bin\Debug\15自动动手写TryParse.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\15自动动手写TryParse\obj\Debug\15自动动手写TryParse.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第06天\第六天老师的练习\0326.Net基础班第六天\15自动动手写TryParse\obj\Debug\15自动动手写TryParse.pdb

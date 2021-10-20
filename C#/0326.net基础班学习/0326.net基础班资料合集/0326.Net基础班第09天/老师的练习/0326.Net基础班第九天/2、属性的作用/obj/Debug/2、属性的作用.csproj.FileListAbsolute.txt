@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\bin\Debug\2、属性的作用.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\bin\Debug\2、属性的作用.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\bin\Debug\2、属性的作用.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\obj\Debug\2、属性的作用.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\obj\Debug\2、属性的作用.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\2、属性的作用\obj\Debug\2、属性的作用.pdb

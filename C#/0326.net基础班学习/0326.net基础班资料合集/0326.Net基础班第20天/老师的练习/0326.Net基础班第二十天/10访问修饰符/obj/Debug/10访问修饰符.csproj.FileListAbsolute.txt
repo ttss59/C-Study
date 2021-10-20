@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\bin\Debug\10访问修饰符.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\bin\Debug\10访问修饰符.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\bin\Debug\10访问修饰符.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\obj\Debug\10访问修饰符.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\obj\Debug\10访问修饰符.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\10访问修饰符\obj\Debug\10访问修饰符.pdb

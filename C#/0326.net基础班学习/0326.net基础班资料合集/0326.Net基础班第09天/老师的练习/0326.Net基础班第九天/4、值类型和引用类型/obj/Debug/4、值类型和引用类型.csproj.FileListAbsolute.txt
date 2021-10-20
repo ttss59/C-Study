@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\bin\Debug\4、值类型和引用类型.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\bin\Debug\4、值类型和引用类型.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\bin\Debug\4、值类型和引用类型.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\obj\Debug\4、值类型和引用类型.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\obj\Debug\4、值类型和引用类型.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第九天\4、值类型和引用类型\obj\Debug\4、值类型和引用类型.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\4、值类型和引用类型\bin\Debug\4、值类型和引用类型.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\4、值类型和引用类型\obj\Debug\4、值类型和引用类型.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第09天\老师的练习\0326.Net基础班第九天\4、值类型和引用类型\obj\Debug\4、值类型和引用类型.pdb

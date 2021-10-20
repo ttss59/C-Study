@@ -1,5 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\02Do You Love Me\bin\Debug\02Do You Love Me.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\02Do You Love Me\obj\Debug\02Do You Love Me.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\02Do You Love Me\obj\Debug\_02Do_You_Love_Me.Form1.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\02Do You Love Me\obj\Debug\_02Do_You_Love_Me.Properties.Resources.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十五天\02Do You Love Me\obj\Debug\02Do You Love Me.csproj.GenerateResource.Cache

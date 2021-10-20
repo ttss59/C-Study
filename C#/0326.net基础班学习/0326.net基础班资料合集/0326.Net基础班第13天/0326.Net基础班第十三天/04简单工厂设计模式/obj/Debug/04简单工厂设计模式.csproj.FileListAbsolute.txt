@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\bin\Debug\04简单工厂设计模式.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\bin\Debug\04简单工厂设计模式.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\bin\Debug\04简单工厂设计模式.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\obj\Debug\04简单工厂设计模式.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\obj\Debug\04简单工厂设计模式.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十三天\04简单工厂设计模式\obj\Debug\04简单工厂设计模式.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第13天\0326.Net基础班第十三天\04简单工厂设计模式\bin\Debug\04简单工厂设计模式.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第13天\0326.Net基础班第十三天\04简单工厂设计模式\obj\Debug\04简单工厂设计模式.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第13天\0326.Net基础班第十三天\04简单工厂设计模式\obj\Debug\04简单工厂设计模式.pdb

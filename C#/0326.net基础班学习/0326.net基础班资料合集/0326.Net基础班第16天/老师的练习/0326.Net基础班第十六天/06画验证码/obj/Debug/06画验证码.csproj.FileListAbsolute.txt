@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\bin\Debug\06画验证码.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\bin\Debug\06画验证码.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\bin\Debug\06画验证码.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\06画验证码.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\_06画验证码.Form1.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\_06画验证码.Properties.Resources.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\06画验证码.csproj.GenerateResource.Cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\06画验证码.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\06画验证码\obj\Debug\06画验证码.pdb

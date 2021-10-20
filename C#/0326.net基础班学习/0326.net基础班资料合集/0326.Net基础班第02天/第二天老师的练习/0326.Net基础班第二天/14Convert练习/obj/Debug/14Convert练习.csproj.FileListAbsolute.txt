@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\bin\Debug\14Convert练习.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\bin\Debug\14Convert练习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\bin\Debug\14Convert练习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\obj\Debug\14Convert练习.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\obj\Debug\14Convert练习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\14Convert练习\obj\Debug\14Convert练习.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\14Convert练习\bin\Debug\14Convert练习.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\14Convert练习\obj\Debug\14Convert练习.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\14Convert练习\obj\Debug\14Convert练习.pdb

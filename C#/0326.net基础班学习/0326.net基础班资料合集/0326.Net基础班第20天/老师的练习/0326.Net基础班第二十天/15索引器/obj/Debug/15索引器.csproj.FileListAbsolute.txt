@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\bin\Debug\15索引器.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\bin\Debug\15索引器.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\bin\Debug\15索引器.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\obj\Debug\15索引器.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\obj\Debug\15索引器.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\15索引器\obj\Debug\15索引器.pdb

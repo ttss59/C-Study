@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\bin\Debug\01委托.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\bin\Debug\01委托.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\bin\Debug\01委托.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\obj\Debug\01委托.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\obj\Debug\01委托.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\01委托\obj\Debug\01委托.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第22天\0326.Net基础班第二十二天\资料\0326.Net基础班第二十二天\01委托\bin\Debug\01委托.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第22天\0326.Net基础班第二十二天\资料\0326.Net基础班第二十二天\01委托\obj\Debug\01委托.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第22天\0326.Net基础班第二十二天\资料\0326.Net基础班第二十二天\01委托\obj\Debug\01委托.pdb

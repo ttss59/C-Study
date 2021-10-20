@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\bin\Debug\04代码中的注释符.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\bin\Debug\04代码中的注释符.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\bin\Debug\04代码中的注释符.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\obj\Debug\04代码中的注释符.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\obj\Debug\04代码中的注释符.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\04代码中的注释符\obj\Debug\04代码中的注释符.pdb

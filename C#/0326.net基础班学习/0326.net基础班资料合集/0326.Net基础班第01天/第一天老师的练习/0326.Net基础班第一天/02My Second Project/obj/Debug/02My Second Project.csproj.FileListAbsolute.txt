@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\bin\Debug\02My Second Project.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\bin\Debug\02My Second Project.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\bin\Debug\02My Second Project.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\obj\Debug\02My Second Project.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\obj\Debug\02My Second Project.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第一天\02My Second Project\obj\Debug\02My Second Project.pdb

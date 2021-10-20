@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\bin\Debug\Test.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\bin\Debug\Test.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\bin\Debug\Test.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\bin\Debug\01复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\bin\Debug\01复习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\obj\Debug\Test.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\Test\obj\Debug\Test.pdb

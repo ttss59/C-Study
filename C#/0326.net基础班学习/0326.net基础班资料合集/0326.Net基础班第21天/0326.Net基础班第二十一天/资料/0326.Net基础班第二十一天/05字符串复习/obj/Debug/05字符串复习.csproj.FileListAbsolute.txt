@@ -1,6 +1,0 @@
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\bin\Debug\05字符串复习.exe.config
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\bin\Debug\05字符串复习.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\bin\Debug\05字符串复习.pdb
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\obj\Debug\05字符串复习.csprojResolveAssemblyReference.cache
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\obj\Debug\05字符串复习.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\05字符串复习\obj\Debug\05字符串复习.pdb

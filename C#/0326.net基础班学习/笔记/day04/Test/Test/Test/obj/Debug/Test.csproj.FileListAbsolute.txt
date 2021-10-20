@@ -1,7 +1,0 @@
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\bin\Debug\Test.exe.config
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\bin\Debug\Test.exe
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\bin\Debug\Test.pdb
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\obj\Debug\Test.exe
-D:\Resourse\wy\Video\传智C#\0326.net基础班笔记\day04\Test\Test\Test\obj\Debug\Test.pdb

@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\06显示实现接口问题\bin\Debug\06显示实现接口问题.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\06显示实现接口问题\bin\Debug\06显示实现接口问题.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\06显示实现接口问题\bin\Debug\06显示实现接口问题.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\06显示实现接口问题\obj\Debug\06显示实现接口问题.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十四天\06显示实现接口问题\obj\Debug\06显示实现接口问题.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\06显示实现接口问题\bin\Debug\06显示实现接口问题.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\06显示实现接口问题\obj\Debug\06显示实现接口问题.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第14天\老师的练习\0326.Net基础班第十四天\06显示实现接口问题\obj\Debug\06显示实现接口问题.pdb

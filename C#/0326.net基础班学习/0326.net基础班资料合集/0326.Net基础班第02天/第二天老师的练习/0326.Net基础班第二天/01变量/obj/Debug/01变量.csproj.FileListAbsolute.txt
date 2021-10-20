@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\bin\Debug\01变量.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\bin\Debug\01变量.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\bin\Debug\01变量.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\obj\Debug\01变量.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\obj\Debug\01变量.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二天\01变量\obj\Debug\01变量.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\01变量\bin\Debug\01变量.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\01变量\obj\Debug\01变量.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第二天\第二天老师的练习\0326.Net基础班第二天\01变量\obj\Debug\01变量.pdb

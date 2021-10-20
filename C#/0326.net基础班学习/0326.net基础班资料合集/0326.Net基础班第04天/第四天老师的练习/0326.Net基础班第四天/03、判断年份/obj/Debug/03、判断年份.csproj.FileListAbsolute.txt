@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\bin\Debug\03、判断年份.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\bin\Debug\03、判断年份.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\bin\Debug\03、判断年份.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\obj\Debug\03、判断年份.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\obj\Debug\03、判断年份.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第四天\03、判断年份\obj\Debug\03、判断年份.pdb

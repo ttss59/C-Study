@@ -1,5 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\22数组的几种声明方式\bin\Debug\22数组的几种声明方式.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\22数组的几种声明方式\bin\Debug\22数组的几种声明方式.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\22数组的几种声明方式\bin\Debug\22数组的几种声明方式.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\22数组的几种声明方式\obj\Debug\22数组的几种声明方式.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\22数组的几种声明方式\obj\Debug\22数组的几种声明方式.pdb

@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\bin\Debug\15枚举.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\bin\Debug\15枚举.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\bin\Debug\15枚举.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\obj\Debug\15枚举.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\obj\Debug\15枚举.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\15枚举\obj\Debug\15枚举.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\15枚举\bin\Debug\15枚举.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\15枚举\obj\Debug\15枚举.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\15枚举\obj\Debug\15枚举.pdb

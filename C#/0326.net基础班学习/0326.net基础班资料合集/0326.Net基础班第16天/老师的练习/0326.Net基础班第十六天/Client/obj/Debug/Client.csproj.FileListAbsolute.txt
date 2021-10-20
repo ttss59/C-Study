@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\bin\Debug\Client.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\bin\Debug\Client.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\bin\Debug\Client.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.Form1.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.Properties.Resources.resources
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.csproj.GenerateResource.Cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十六天\Client\obj\Debug\Client.pdb

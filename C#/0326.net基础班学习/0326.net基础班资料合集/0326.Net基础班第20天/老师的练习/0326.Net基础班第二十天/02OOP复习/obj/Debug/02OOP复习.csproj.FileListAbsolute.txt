@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\bin\Debug\02OOP复习.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\bin\Debug\02OOP复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\bin\Debug\02OOP复习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\obj\Debug\02OOP复习.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\obj\Debug\02OOP复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\02OOP复习\obj\Debug\02OOP复习.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\02OOP复习\bin\Debug\02OOP复习.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\02OOP复习\obj\Debug\02OOP复习.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第20天\老师的练习\0326.Net基础班第二十天\02OOP复习\obj\Debug\02OOP复习.pdb

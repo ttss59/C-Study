@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\bin\Debug\06new的用法.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\bin\Debug\06new的用法.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\bin\Debug\06new的用法.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\obj\Debug\06new的用法.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\obj\Debug\06new的用法.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\06new的用法\obj\Debug\06new的用法.pdb

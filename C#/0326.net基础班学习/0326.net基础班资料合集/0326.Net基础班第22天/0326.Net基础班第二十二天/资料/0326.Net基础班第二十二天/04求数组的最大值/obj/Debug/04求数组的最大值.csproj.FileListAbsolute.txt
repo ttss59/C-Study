@@ -1,6 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\bin\Debug\04求数组的最大值.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\bin\Debug\04求数组的最大值.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\bin\Debug\04求数组的最大值.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\obj\Debug\04求数组的最大值.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\obj\Debug\04求数组的最大值.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十二天\04求数组的最大值\obj\Debug\04求数组的最大值.pdb

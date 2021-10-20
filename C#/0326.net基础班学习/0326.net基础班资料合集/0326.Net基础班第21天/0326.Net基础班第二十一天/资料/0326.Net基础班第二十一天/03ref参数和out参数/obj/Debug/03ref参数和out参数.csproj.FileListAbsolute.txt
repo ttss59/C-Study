@@ -1,5 +1,0 @@
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\03ref参数和out参数\bin\Debug\03ref参数和out参数.exe.config
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\03ref参数和out参数\bin\Debug\03ref参数和out参数.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\03ref参数和out参数\bin\Debug\03ref参数和out参数.pdb
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\03ref参数和out参数\obj\Debug\03ref参数和out参数.exe
-c:\users\springrain\documents\visual studio 2013\Projects\0326.Net基础班第二十一天\03ref参数和out参数\obj\Debug\03ref参数和out参数.pdb

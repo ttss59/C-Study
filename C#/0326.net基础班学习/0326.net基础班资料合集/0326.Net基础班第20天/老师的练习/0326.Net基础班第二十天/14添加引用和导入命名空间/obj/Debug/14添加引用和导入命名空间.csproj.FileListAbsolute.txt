@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\bin\Debug\14添加引用和导入命名空间.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\bin\Debug\14添加引用和导入命名空间.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\bin\Debug\14添加引用和导入命名空间.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\bin\Debug\02OOP复习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\bin\Debug\02OOP复习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\obj\Debug\14添加引用和导入命名空间.csprojResolveAssemblyReference.cache
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\obj\Debug\14添加引用和导入命名空间.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第二十天\14添加引用和导入命名空间\obj\Debug\14添加引用和导入命名空间.pdb

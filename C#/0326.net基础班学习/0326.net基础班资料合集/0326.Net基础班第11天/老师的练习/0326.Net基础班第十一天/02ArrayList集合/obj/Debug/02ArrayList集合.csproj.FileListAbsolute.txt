@@ -1,8 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\02ArrayList集合\bin\Debug\02ArrayList集合.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\02ArrayList集合\bin\Debug\02ArrayList集合.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\02ArrayList集合\bin\Debug\02ArrayList集合.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\02ArrayList集合\obj\Debug\02ArrayList集合.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十一天\02ArrayList集合\obj\Debug\02ArrayList集合.pdb
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\02ArrayList集合\bin\Debug\02ArrayList集合.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\02ArrayList集合\obj\Debug\02ArrayList集合.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第11天\老师的练习\0326.Net基础班第十一天\02ArrayList集合\obj\Debug\02ArrayList集合.pdb

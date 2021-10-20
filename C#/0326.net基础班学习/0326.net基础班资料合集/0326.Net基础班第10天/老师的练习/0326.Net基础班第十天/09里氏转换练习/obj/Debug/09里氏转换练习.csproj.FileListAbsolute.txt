@@ -1,5 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\09里氏转换练习\bin\Debug\09里氏转换练习.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\09里氏转换练习\bin\Debug\09里氏转换练习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\09里氏转换练习\bin\Debug\09里氏转换练习.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\09里氏转换练习\obj\Debug\09里氏转换练习.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第十天\09里氏转换练习\obj\Debug\09里氏转换练习.pdb

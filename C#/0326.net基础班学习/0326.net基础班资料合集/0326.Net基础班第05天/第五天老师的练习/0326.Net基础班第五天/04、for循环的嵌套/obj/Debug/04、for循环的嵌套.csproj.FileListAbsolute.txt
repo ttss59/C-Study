@@ -1,9 +1,0 @@
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\bin\Debug\04、for循环的嵌套.exe.config
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\bin\Debug\04、for循环的嵌套.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\bin\Debug\04、for循环的嵌套.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\obj\Debug\04、for循环的嵌套.exe
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\obj\Debug\04、for循环的嵌套.pdb
-C:\Users\SpringRain\Desktop\0326.Net基础班第五天\04、for循环的嵌套\obj\Debug\04、for循环的嵌套.csprojResolveAssemblyReference.cache
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\04、for循环的嵌套\bin\Debug\04、for循环的嵌套.exe.config
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\04、for循环的嵌套\obj\Debug\04、for循环的嵌套.exe
-F:\传智播客.net基础班\0326.Net基础班视频及资料\0326.Net基础班第05天\第五天老师的练习\0326.Net基础班第五天\04、for循环的嵌套\obj\Debug\04、for循环的嵌套.pdb
