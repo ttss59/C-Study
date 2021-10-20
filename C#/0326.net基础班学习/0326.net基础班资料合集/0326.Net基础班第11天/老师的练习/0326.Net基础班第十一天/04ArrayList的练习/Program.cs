@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace _04ArrayList的练习
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //像ArrayList集合中添加一个整数类型的数组
             //求这个集合中的最大值、最小值、总和、平均值
@@ -41,7 +41,7 @@ namespace _04ArrayList的练习
             Random r = new Random();
             ArrayList list = new ArrayList();
 
-            for (int i = 0; i <10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 int rNumber = r.Next(0, 10);
                 if (!list.Contains(rNumber))
