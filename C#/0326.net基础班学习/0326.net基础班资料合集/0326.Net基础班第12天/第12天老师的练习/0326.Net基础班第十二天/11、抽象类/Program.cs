@@ -6,18 +6,15 @@ using System.Threading.Tasks;
 
 namespace _11_抽象类
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //虚方法、抽象类、接口
 
             //编程实现:猫和狗都会叫,但猫是喵喵的叫,狗是汪汪的叫?—猪
 
-
-
-           // Animal a = new Animal();
-
+            // Animal a = new Animal();
 
             Animal a = new Dog();//new Cat();
             a.Bark("123");
@@ -54,14 +51,14 @@ namespace _11_抽象类
         }
 
         public Animal()
-        { 
-            
+        {
         }
+
         public abstract string Bark(string name);
-       // public abstract void Test();
+
+        // public abstract void Test();
         //public void Bark()
-        //{ 
-            
+        //{
         //}
         //public void Bark()
         //{
@@ -70,20 +67,17 @@ namespace _11_抽象类
     }
 
     //public abstract class Bird:Animal
-    //{ 
-        
+    //{
     //}
-
 
     public class Cat : Animal
     {
-        public override string  Bark(string name)
+        public override string Bark(string name)
         {
             Console.WriteLine("猫咪喵喵的叫");
             return name;
         }
     }
-
 
     public class Dog : Animal
     {
