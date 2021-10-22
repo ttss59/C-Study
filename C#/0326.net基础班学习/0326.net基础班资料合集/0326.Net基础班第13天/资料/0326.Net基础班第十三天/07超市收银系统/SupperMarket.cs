@@ -8,7 +8,8 @@ namespace _07超市收银系统
 {
     public class SupperMarket
     {
-        CangKu ck = new CangKu();
+        private CangKu ck = new CangKu();
+
         public SupperMarket()
         {
             ck.DaoRuPros("Iphone100", 1000);
@@ -29,7 +30,7 @@ namespace _07超市收银系统
             //算钱
             double totalMoney = GetMoney(pros);
             Console.WriteLine("您本次消费合计{0}元", totalMoney);
-            Console.WriteLine("请选择打折方式 1、不打折 2、打95折  3、打85折、4、买300送50 5、买500送100");
+            Console.WriteLine("请选择打折方式 1、不打折 2、打95折  3、打85折、4、买300送60 5、买500送100");
             string input = Console.ReadLine();
             CalFather cf = GetCal(input);
             double realMoney = cf.GetMoney(totalMoney);
@@ -47,7 +48,6 @@ namespace _07超市收银系统
             Console.WriteLine(str);
         }
 
-
         /// <summary>
         /// 简单工厂设计模式 根据用户的输入 返回一个打折对象
         /// </summary>
@@ -58,15 +58,24 @@ namespace _07超市收银系统
             CalFather cal = null;
             switch (input)
             {
-                case "1": cal = new CalNormal();
+                case "1":
+                    cal = new CalNormal();
                     break;
-                case "2": cal = new CalRate(0.95);
+
+                case "2":
+                    cal = new CalRate(0.95);
                     break;
-                case "3": cal = new CalRate(0.85);
+
+                case "3":
+                    cal = new CalRate(0.85);
                     break;
-                case "4": cal = new CalMN(300, 50);
+
+                case "4":
+                    cal = new CalMN(300, 50);
                     break;
-                case "5": cal = new CalMN(500, 100);
+
+                case "5":
+                    cal = new CalMN(500, 100);
                     break;
             }
             return cal;
@@ -86,6 +95,5 @@ namespace _07超市收银系统
             }
             return sum;
         }
-
     }
 }
