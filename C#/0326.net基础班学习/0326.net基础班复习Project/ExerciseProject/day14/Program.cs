@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _09值传递和引用传递
+namespace day14
 {
     internal class Program
     {
@@ -16,15 +16,12 @@ namespace _09值传递和引用传递
             //值传递：值类型在赋值的时候 传递的是值得本身
             //引用类型：引用类型在赋值的时候 传递的是引用 (地址)
 
-            //int n = 10;
-            ////int n2 = n;
-            ////n2 = 20;
-            ////Console.WriteLine(n);
-            ////Console.WriteLine(n2);
-            //Test(n);
-            //Console.WriteLine(n);
-            //Console.ReadKey();
+            Test01();
+            Console.ReadKey();
+        }
 
+        public static void Test02()
+        {
             Person p1 = new Person();
             p1.Name = "张三";
             Person p2 = p1;
@@ -45,24 +42,22 @@ namespace _09值传递和引用传递
             Console.ReadKey();
         }
 
-        public static void Test(Person p)
+        public static void Test01()
         {
-            Person pp = p;
-            pp.Name = "李四";
+            int n = 10;
+            int n2 = n;
+            n2 = 20;
+            Console.WriteLine(n);//10
+            Console.WriteLine(n2);//20
         }
 
-        //public static void Test(int n1)
-        //{
-        //    n1 += 5;
-        //}
-    }
-
-    public class Person
-    {
-        public string Name
+        public class Person
         {
-            get;
-            set;
+            public string Name
+            {
+                get;
+                set;
+            }
         }
     }
 }
