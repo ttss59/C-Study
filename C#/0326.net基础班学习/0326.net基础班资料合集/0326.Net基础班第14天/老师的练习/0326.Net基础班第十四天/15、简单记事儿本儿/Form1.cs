@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+
 namespace _15_简单记事儿本儿
 {
     public partial class Form1 : Form
@@ -16,8 +17,6 @@ namespace _15_简单记事儿本儿
         {
             InitializeComponent();
         }
-
-
 
         /// <summary>
         /// 当窗体加载的时候 隐藏掉我们不需要的控件
@@ -32,8 +31,6 @@ namespace _15_简单记事儿本儿
             //在程序加载的时候 取消文本框的自动换行
             txtWords.WordWrap = false;
         }
-
-
 
         /// <summary>
         /// 判断登陆是否成功
@@ -74,8 +71,6 @@ namespace _15_简单记事儿本儿
             txtName.Focus();
         }
 
-
-
         /// <summary>
         /// 点击自动换行或者取消自动换行
         /// </summary>
@@ -97,7 +92,7 @@ namespace _15_简单记事儿本儿
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            using (FileStream fsWrite = new FileStream(@"C:\Users\SpringRain\Desktop\new.txt", FileMode.OpenOrCreate, FileAccess.Write))
+            using (FileStream fsWrite = new FileStream(@"D:\Desktop\saveTxt.txt", FileMode.OpenOrCreate, FileAccess.Write))
             {
                 byte[] buffer = System.Text.Encoding.Default.GetBytes(txtWords.Text);
                 fsWrite.Write(buffer, 0, buffer.Length);
