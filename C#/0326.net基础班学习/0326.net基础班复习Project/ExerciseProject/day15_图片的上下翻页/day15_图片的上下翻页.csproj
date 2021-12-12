@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C5C3BE9-23C8-4589-A4D4-D29F96A93481}</ProjectGuid>
+    <ProjectGuid>{AFFFCCB5-EC39-47E4-968D-E295213A9F88}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>day15_组件练习</RootNamespace>
-    <AssemblyName>day15_组件练习</AssemblyName>
+    <RootNamespace>day15_图片的上下翻页</RootNamespace>
+    <AssemblyName>day15_图片的上下翻页</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
