@@ -52,7 +52,7 @@
             this.portTxt.Name = "portTxt";
             this.portTxt.Size = new System.Drawing.Size(40, 21);
             this.portTxt.TabIndex = 4;
-            this.portTxt.Text = "6666";
+            this.portTxt.Text = "50000";
             // 
             // severIPTxt
             // 
@@ -86,6 +86,7 @@
             this.sendBut.TabIndex = 8;
             this.sendBut.Text = "发送消息";
             this.sendBut.UseVisualStyleBackColor = true;
+            this.sendBut.Click += new System.EventHandler(this.sendBut_Click);
             // 
             // Form1
             // 
@@ -100,6 +101,8 @@
             this.Controls.Add(this.severIPTxt);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

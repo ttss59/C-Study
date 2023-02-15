@@ -33,7 +33,7 @@
             this.watchBut = new System.Windows.Forms.Button();
             this.connectedBox = new System.Windows.Forms.ComboBox();
             this.showTxt = new System.Windows.Forms.TextBox();
-            this.sendTxt = new System.Windows.Forms.TextBox();
+            this.inputTxt = new System.Windows.Forms.TextBox();
             this.filePathTxt = new System.Windows.Forms.TextBox();
             this.selectBut = new System.Windows.Forms.Button();
             this.sendFileBut = new System.Windows.Forms.Button();
@@ -74,6 +74,7 @@
             this.connectedBox.Name = "connectedBox";
             this.connectedBox.Size = new System.Drawing.Size(163, 20);
             this.connectedBox.TabIndex = 3;
+            this.connectedBox.SelectedIndexChanged += new System.EventHandler(this.connectedBox_SelectedIndexChanged);
             // 
             // showTxt
             // 
@@ -83,13 +84,13 @@
             this.showTxt.Size = new System.Drawing.Size(544, 140);
             this.showTxt.TabIndex = 4;
             // 
-            // sendTxt
+            // inputTxt
             // 
-            this.sendTxt.Location = new System.Drawing.Point(36, 276);
-            this.sendTxt.Multiline = true;
-            this.sendTxt.Name = "sendTxt";
-            this.sendTxt.Size = new System.Drawing.Size(544, 140);
-            this.sendTxt.TabIndex = 5;
+            this.inputTxt.Location = new System.Drawing.Point(36, 276);
+            this.inputTxt.Multiline = true;
+            this.inputTxt.Name = "inputTxt";
+            this.inputTxt.Size = new System.Drawing.Size(544, 140);
+            this.inputTxt.TabIndex = 5;
             // 
             // filePathTxt
             // 
@@ -106,6 +107,7 @@
             this.selectBut.TabIndex = 7;
             this.selectBut.Text = "选 择";
             this.selectBut.UseVisualStyleBackColor = true;
+            this.selectBut.Click += new System.EventHandler(this.selectBut_Click);
             // 
             // sendFileBut
             // 
@@ -115,6 +117,7 @@
             this.sendFileBut.TabIndex = 8;
             this.sendFileBut.Text = "发送文件";
             this.sendFileBut.UseVisualStyleBackColor = true;
+            this.sendFileBut.Click += new System.EventHandler(this.sendFileBut_Click);
             // 
             // sendMsgBut
             // 
@@ -124,6 +127,7 @@
             this.sendMsgBut.TabIndex = 9;
             this.sendMsgBut.Text = "发送消息";
             this.sendMsgBut.UseVisualStyleBackColor = true;
+            this.sendMsgBut.Click += new System.EventHandler(this.sendMsgBut_Click);
             // 
             // shakeBut
             // 
@@ -133,6 +137,7 @@
             this.shakeBut.TabIndex = 10;
             this.shakeBut.Text = "震动";
             this.shakeBut.UseVisualStyleBackColor = true;
+            this.shakeBut.Click += new System.EventHandler(this.shakeBut_Click);
             // 
             // Form1
             // 
@@ -144,7 +149,7 @@
             this.Controls.Add(this.sendFileBut);
             this.Controls.Add(this.selectBut);
             this.Controls.Add(this.filePathTxt);
-            this.Controls.Add(this.sendTxt);
+            this.Controls.Add(this.inputTxt);
             this.Controls.Add(this.showTxt);
             this.Controls.Add(this.connectedBox);
             this.Controls.Add(this.watchBut);
@@ -166,7 +171,7 @@
         private System.Windows.Forms.Button watchBut;
         private System.Windows.Forms.ComboBox connectedBox;
         private System.Windows.Forms.TextBox showTxt;
-        private System.Windows.Forms.TextBox sendTxt;
+        private System.Windows.Forms.TextBox inputTxt;
         private System.Windows.Forms.TextBox filePathTxt;
         private System.Windows.Forms.Button selectBut;
         private System.Windows.Forms.Button sendFileBut;
