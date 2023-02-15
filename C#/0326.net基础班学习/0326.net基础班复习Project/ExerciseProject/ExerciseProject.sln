@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day17_2_Sever", "day17_2_Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day16_9_创建监听的Socket", "day16_9_创建监听的Socket\day16_9_创建监听的Socket.csproj", "{7888CFB8-B396-49E4-B41B-BCEC924246E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day17_3_控制台练习题", "day17_3_控制台练习题\day17_3_控制台练习题.csproj", "{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day17_4_练习26计算器", "day17_4_练习26计算器\day17_4_练习26计算器.csproj", "{03FF277C-350A-4E29-B267-9FF69A03F5C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +493,30 @@ Global
 		{7888CFB8-B396-49E4-B41B-BCEC924246E1}.Release|x64.Build.0 = Release|Any CPU
 		{7888CFB8-B396-49E4-B41B-BCEC924246E1}.Release|x86.ActiveCfg = Release|Any CPU
 		{7888CFB8-B396-49E4-B41B-BCEC924246E1}.Release|x86.Build.0 = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|x64.Build.0 = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Debug|x86.Build.0 = Debug|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|x64.ActiveCfg = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|x64.Build.0 = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|x86.ActiveCfg = Release|Any CPU
+		{F0F72A52-FBD6-4F2E-8F05-F663537FEAA7}.Release|x86.Build.0 = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|x64.Build.0 = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Debug|x86.Build.0 = Debug|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|x64.ActiveCfg = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|x64.Build.0 = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{03FF277C-350A-4E29-B267-9FF69A03F5C9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
